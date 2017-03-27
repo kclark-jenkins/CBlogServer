@@ -1,0 +1,11 @@
+{
+  "server": {
+    "port": 8888
+  },
+  "db": {
+    "user": "root",
+    "pass": "",
+    "database": "",
+    "hostname": "localhost"
+  }
+}
